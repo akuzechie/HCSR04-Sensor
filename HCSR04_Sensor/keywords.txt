@@ -1,0 +1,3 @@
+HCSR04_Sensor	KEYWORD1
+setEchoPin	KEYWORD2
+getDistance	KEYWORD2
